@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-software-deployment
+description: "BIAN Service Domain: Software Deployment (Process pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Technology and Operations"
+  bian/asset-type: "Software Release"
+  bian/control-record: "Software Release Procedure"
